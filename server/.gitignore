@@ -1,0 +1,15 @@
+# Virtual env
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Logs
+logs/
+chat_log.jsonl
+feedback_log.jsonl
+
+# System files
+.DS_Store
