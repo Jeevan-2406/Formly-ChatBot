@@ -1,8 +1,7 @@
-#  Formly AI Chatbot - AI Intern Assignment
+#  Formly AI Chatbot
 
 This project is a full-stack AI chatbot application built for a fictional SaaS form builder product called **Formly**. The chatbot answers user questions using a knowledge base of documentation files and Google's **Gemini 1.5 Pro** model.
 
->  This project fulfills all the requirements listed in the AI Internship assignment.
 
 ---
 
