@@ -45,4 +45,4 @@ def search_docs(documents, query, top_k=3, threshold=0.7):
         if len(top_results) >= top_k:
             break
 
-    return top_results  # list of (doc, score) tuples
+    return top_results
